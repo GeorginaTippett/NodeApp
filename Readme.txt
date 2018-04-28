@@ -4,4 +4,6 @@ It was my first attempt at using the Express Generator and is the first Node app
 
 It creates a basic server that returns some JSON that you can run on local host.
 
+*Note that you will need Node installed to run this! (download & install from Nodejs.org)
+
 I made this by following a brilliant online tutorial by Brian Voong (credit - letsbuildthatapp.com). Thank you!
